@@ -14,11 +14,11 @@
         <h1>What is Serpiel ?</h1>
         <div class="content-container">
             <p>
-                First as an username, Serpiel became an identity on internet. <br>
                 Launched to represent the art of music but also the liberty to do whatever you want.
             </p>
             <p>
                 Over time, Serpiel evolved beyond a simple name — it's a mindset, a way of creating without limits. Whether in sound, design, or vision, it stands for freedom, authenticity, and passion.
+                
             </p>
             <p>
                 Today, Serpiel is not just a name — it's a brand. A symbol of artistic independence, a digital signature for bold creations, and a platform where ideas turn into projects.
