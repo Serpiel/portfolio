@@ -1,0 +1,63 @@
+body {
+    background: rgb(83, 83, 83);
+}
+
+.infos-serpiel {
+    margin-top: 120px;
+    color: white;
+}
+
+h1 {
+    font-family: Grunge;
+    text-align: center;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&family=Special+Elite&display=swap');
+
+.content-container {
+  background: #1c1c1c url('https://www.transparenttextures.com/patterns/rocky-wall.png') repeat;
+  padding: 3rem 2rem;
+  border: 2px solid #3a3a3a;
+  border-radius: 1rem;
+  color: #f0e6e6;
+  font-family: 'Special Elite', monospace;
+  max-width: 850px;
+  margin: 2rem auto;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.7);
+  line-height: 1.7;
+  text-shadow: 1px 1px 1px #000;
+  background-blend-mode: multiply;
+}
+
+.content-container p {
+  margin-bottom: 1.5rem;
+  font-size: 1.05rem;
+  border-left: 4px solid #690000;
+  padding-left: 1rem;
+  position: relative;
+}
+
+.content-container p::before {
+  content: "♪";
+  position: absolute;
+  left: -1.5rem;
+  top: 0;
+  color: #b40101;
+  font-family: 'Staatliches', sans-serif;
+  font-size: 1.2rem;
+}
+
+.content-container p:last-child {
+  font-weight: bold;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  letter-spacing: 2px;
+  border-left-color: #690000;
+}
+
+.content-container:hover {
+  transform: scale(1.01);
+  box-shadow: 0 0 25px rgba(230, 57, 70, 0.2);
+  transition: all 0.3s ease-in-out;
+}

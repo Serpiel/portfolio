@@ -6,6 +6,6 @@
     <title>Contact</title>
 </head>
 <body>
-    <?php include('../includes/navbar.php'); ?>
+    <?php include('../Includes/navbar.php'); ?>
 </body>
 </html>

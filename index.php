@@ -6,7 +6,7 @@
     <title>Home</title>
 </head>
 <body>
-    <?php include('includes/navbar.php'); ?>
+    <?php include('Includes/navbar.php'); ?>
     <h1>WELCOME ON MY PORTFOLIO</h1>
 </body>
 </html>
