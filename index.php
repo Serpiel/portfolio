@@ -4,9 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home</title>
+    <link rel="stylesheet" href="/Assets/Style/index.css">
 </head>
 <body>
     <?php include('Includes/navbar.php'); ?>
-    <h1>WELCOME ON MY PORTFOLIO</h1>
+    <img src="Assets/Images/Mainpage_portfolio.png" alt="Background image" class="bg-image">
 </body>
 </html>

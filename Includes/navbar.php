@@ -10,7 +10,7 @@
 <body>
     <div class="navbar">
         <div class="navbar-left">
-            <a href ="/index.php" ><img src="/Assets/Images/SERPIEL_logo.png" alt="SERPIEL_logo" class="logo"></a>
+            <a href ="/index_portfolio.php" ><img src="/Assets/Images/SERPIEL_logo.png" alt="SERPIEL_logo" class="logo"></a>
         </div>
         <div class="navbar-right">
             <a href="/index.php" class="cart-link">
